@@ -1,0 +1,6 @@
+venv/
+downloads/
+audios/
+._*
+__pycache__/
+*.pyc
